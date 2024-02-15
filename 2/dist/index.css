@@ -1,0 +1,43 @@
+.parallax1{
+    /* The image used 
+    background-image: url("   https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1899,h_935,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+  
+    Set a specific height */
+    min-height: 500px; 
+
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+  }
+  .parallax2{
+    /* The image used 
+    background-image: url("   https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1899,h_935,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+  
+    Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+
+    background-position: center;
+    background-repeat: no-repeat;
+ 
+    background-color: black;
+  }
+  .parallax3{
+    /* The image used 
+    background-image: url("   https://static.wixstatic.com/media/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg/v1/fill/w_1899,h_935,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.jpg");
+  
+    Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+  }
